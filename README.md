@@ -9,6 +9,6 @@ A command used in vsc and elsewhere to make it easier. And it can create the mos
 
 3. use the cmmand like ( assist create project ) in some app like vsc and enjoy 💖
 
-## Authors with 💖
+## Author with 💖
 
 - [NilooFar](https://github.com/NiIfr) 🙂
